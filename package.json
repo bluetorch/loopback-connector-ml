@@ -1,0 +1,26 @@
+{
+  "name": "loopback-connector-ml",
+  "version": "1.0.0",
+  "description": "LoopBack MarkLogic Connector",
+  "keywords": [
+    "StrongLoop",
+    "LoopBack",
+    "MarkLogic",
+    "DataSource",
+    "Connector"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "loopback-connector": "^2.2.0",
+    "marklogic": "^1.0.3",
+    "async": "^1.0.0",
+    "debug": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluetorch/loopback-connector-ml"
+  },
+  "license": {
+    "name": "Apache-2.0"
+  }
+}
